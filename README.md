@@ -32,7 +32,7 @@ npm install --save
 ```
 
 ### 3a. Install dependencies - Docker
-`` Ensure you have Docker installed ``
+``Stay in server folder and ensure you have Docker installed ``
 
 Build the image
 
