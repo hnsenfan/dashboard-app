@@ -14,13 +14,13 @@ Fullstack web project for university finder application built with React v17.0.2
 ### 1. Clone this repository
 
 ```
-git clone https://github.com/hnsenfan/university-app.git
+git clone https://github.com/hnsenfan/dashboard-app.git
 ```
 
 ### 2. Navigate to the directory - Server
 
 ```
-cd university-app
+cd dashboard-app
 cd server
 ```
 
